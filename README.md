@@ -1,2 +1,2 @@
 # PERSONALPORTFOLIO
-https://shreyasshettyportfolio.netlify.app/
+shreyasshetty.netlify.app
